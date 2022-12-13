@@ -332,11 +332,11 @@ label {
 }
 
 .btn-two {
-    background: #04D500 none repeat scroll 0 0;
+    background: #4CBC17 none repeat scroll 0 0;
 }
 
 .btn-two::before {
-    background: #189B0D;
+    background: #04D500;
 }
 
 .btn:hover:before {
