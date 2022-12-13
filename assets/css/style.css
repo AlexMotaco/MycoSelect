@@ -602,7 +602,7 @@ label {
 }
 
 .transparent-header.sticky-menu .header-action>ul>li>a {
-    color: #222222;
+    color: #ffffff;
 }
 
 .sticky-menu {
@@ -612,7 +612,7 @@ label {
     top: 0;
     width: 100%;
     z-index: 99;
-    background: #fff;
+    background: rgb(0, 0, 0);
     -webkit-animation: 1000ms ease-in-out 0s normal none 1 running fadeInDown;
     animation: 1000ms ease-in-out 0s normal none 1 running fadeInDown;
     -webkit-box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
@@ -2186,7 +2186,7 @@ body.search-visible {
     display: block;
     width: 85px;
     height: 85px;
-    background: #f3f3f3;
+    background: #3C3C3C;
     padding: 13px;
     text-align: center;
 }
@@ -2240,7 +2240,7 @@ body.search-visible {
 }
 
 .Product-tag-list li a {
-    color: #222;
+    color: #ffffff;
     font-size: 14px;
     padding: 6px 17px;
     border-radius: 0;
@@ -2248,7 +2248,7 @@ body.search-visible {
     transition: 0.3s;
     margin-right: 6px;
     margin-bottom: 10px;
-    background: #f5f5f5;
+    background: #189B0D;
     font-weight: 500;
 }
 
@@ -5106,7 +5106,7 @@ body.search-visible {
 }
 
 .contact-form select.form-select {
-    border: 1px solid #f1f1f1;
+    border: 1px solid #3C3C3C;
     box-shadow: none;
     outline: none;
     min-height: 60px;
@@ -5347,7 +5347,7 @@ body.search-visible {
 }
 
 .copyright-wrap {
-    background: #0A0A0A;
+    background: #000000;
     border-top: 1px solid #262626;
     padding: 25px 0;
 }
@@ -6965,7 +6965,7 @@ section#news,
 
 .features-bg,
 .formula-bg {
-    background: #189B0D;
+    background: #0D9B4D;
 }
 
 .dark .transparent-header.sticky-menu .navbar-wrap ul li a {
