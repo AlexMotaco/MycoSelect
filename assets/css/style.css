@@ -4645,7 +4645,7 @@ body.search-visible {
 
 .blog-avatar-wrap {
     overflow: hidden;
-    background: #F9F9F9;
+    background: #000000;
     padding: 40px 55px 40px 40px;
     display: flex;
     align-items: center;
